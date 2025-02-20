@@ -69,6 +69,24 @@
         "network": "Ethereum (ERC20)"
       },
       "role": "admin"
+    },
+    {
+      "email": "duongthehien2001@gmail.com",
+      "password": "$2a$10$VB0GMWFGEHmRGtbm4Urfb.FSma60uc3zzOopnvkDV7crK4G2TKSyi",
+      "username": "thehienduong",
+      "id": 2
+    },
+    {
+      "email": "duongthehien2001dn@gmail.com",
+      "password": "$2a$10$qC7RK7nB8Knp01BH9rttfOnTM90VV0X1Zi3HgiDVJS/syJw45s7wa",
+      "username": "thehienduong",
+      "id": 3
+    },
+    {
+      "email": "thehienduong@gmail.com",
+      "password": "$2a$10$ya22V/EBk/B2G29j7XcRY.5eIx6VmFHZHnPC9X2hM8m86JmFPlD2C",
+      "username": "toooi",
+      "id": 4
     }
   ]
 }
