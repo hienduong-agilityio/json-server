@@ -1,5 +1,12 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "duongthehien2001dn@gmail.com",
+      "password": "$2a$10$BMcIrpNCPF8Jfwyf2ET4PeCv.DuTaOZFgZ7UATreTYqr5Jn8drr6y",
+      "username": "duongThien",
+      "id": 1
+    }
+  ],
   "products": [],
   "carts": []
 }
