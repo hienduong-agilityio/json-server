@@ -5,8 +5,18 @@
       "password": "$2a$10$BMcIrpNCPF8Jfwyf2ET4PeCv.DuTaOZFgZ7UATreTYqr5Jn8drr6y",
       "username": "duongThien",
       "id": 1
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "$2a$10$pqzZieanRYVFDLB1o6t8jucNgdDAUEx/ePXcvUmT6tVu1d5dnGu5u",
+      "username": "testUser",
+      "id": 2
+    },
+    {
+      "email": "demoAccount@gmail.com",
+      "password": "$2a$10$LPqEC9WYlt4G7HLibNO55ecZ2tWkBx9yuVtRZSUZQ0y5tZ0ym6mJW",
+      "username": "demo",
+      "id": 3
     }
-  ],
-  "products": [],
-  "carts": []
+  ]
 }

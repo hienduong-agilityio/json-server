@@ -11,7 +11,7 @@ server.use(express.json());
 server.use(middlewares);
 
 const rules = jsonServerAuth.rewriter({
-  users: 644,
+  users: 600,
   products: 644,
   carts: 600,
 });
